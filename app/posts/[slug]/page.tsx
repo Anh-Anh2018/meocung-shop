@@ -143,11 +143,11 @@ export default async function PostDetailPage({ params }: Props) {
               <p className="text-xs text-gray-500 mt-0.5">Gọi ngay đội ngũ Mèo Cưng để được hỗ trợ tốt nhất!</p>
             </div>
             <a
-              href="tel:0902751819"
+              href="tel:0382542737"
               className="px-5 py-2.5 rounded-full bg-[#ff7f5c] hover:bg-[#f0643d] text-white font-bold text-xs transition flex items-center gap-1.5 shrink-0"
             >
               <Phone className="w-3.5 h-3.5" />
-              <span>0902 751 819</span>
+              <span>0382 542 737</span>
             </a>
           </div>
         </article>
@@ -201,10 +201,10 @@ export default async function PostDetailPage({ params }: Props) {
               Áp dụng cho toàn bộ đơn thức ăn hạt, pate và phụ kiện tại khu vực nội thành TP. Hồ Chí Minh.
             </p>
             <a
-              href="tel:0902751819"
+              href="tel:0382542737"
               className="inline-block w-full py-2.5 bg-white text-[#ff7f5c] font-bold text-xs rounded-full hover:bg-orange-50 transition shadow"
             >
-              Đặt hàng ngay: 0902 751 819
+              Đặt hàng ngay: 0382 542 737
             </a>
           </div>
         </aside>

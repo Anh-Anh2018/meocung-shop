@@ -44,10 +44,10 @@ export default async function HomePage() {
             </Link>
 
             <a
-              href="tel:0902751819"
+              href="tel:0382542737"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-black/15 hover:bg-black/25 text-white font-semibold text-sm transition border border-white/20"
             >
-              <span>Hotline: 0902 751 819</span>
+              <span>Hotline: 0382 542 737</span>
             </a>
           </div>
         </div>

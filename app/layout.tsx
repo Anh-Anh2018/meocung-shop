@@ -53,7 +53,7 @@ export default function RootLayout({
                   </div>
                   <div className="flex items-center gap-2">
                     <Phone className="w-4 h-4 text-[#ff7f5c] shrink-0" />
-                    <span className="font-bold text-gray-700">0902 751 819</span>
+                    <span className="font-bold text-gray-700">0382 542 737</span>
                   </div>
                 </div>
               </div>

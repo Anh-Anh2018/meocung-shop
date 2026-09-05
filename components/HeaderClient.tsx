@@ -64,11 +64,11 @@ export default function HeaderClient() {
         {/* Actions: Hotline & Cart with real count */}
         <div className="flex items-center gap-3 sm:gap-4 shrink-0">
           <a
-            href="tel:0902751819"
+            href="tel:0382542737"
             className="hidden sm:flex items-center gap-2 px-3.5 py-2 rounded-full bg-orange-50 text-[#ff7f5c] hover:bg-orange-100 transition font-semibold text-xs border border-orange-200"
           >
             <Phone className="w-4 h-4 animate-bounce" />
-            <span>0902 751 819</span>
+            <span>0382 542 737</span>
           </a>
 
           <Link

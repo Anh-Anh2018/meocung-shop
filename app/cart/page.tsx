@@ -45,10 +45,10 @@ export default function CartPage() {
             Tiếp tục mua sắm
           </Link>
           <a
-            href="tel:0902751819"
+            href="tel:0382542737"
             className="px-6 py-3 rounded-full bg-gray-100 text-gray-800 font-bold text-xs hover:bg-gray-200 transition"
           >
-            Hotline: 0902 751 819
+            Hotline: 0382 542 737
           </a>
         </div>
       </div>
